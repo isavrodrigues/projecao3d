@@ -1,0 +1,6 @@
+name: projecao3d
+dependencies:
+  - python=True
+  - pip
+  - pip:
+      - -e .
